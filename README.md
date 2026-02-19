@@ -1,8 +1,15 @@
 # 🏥 Sepsis Early Warning System (SEWS)
 ### AI-Powered Real-Time ICU Monitoring Tool
 
-**Author:** Joel Jacob Roji
+## Authors :
+[Joel Jacob Roji](https://github.com/JoelJacobRoji)
+[P Kamuel Shawn](https://github.com/KamuelShawn)
+[Darren Samuel Dcruz](https://github.com/Darren-Dcruz)
+
+
 **Project Status:** Completed & Validated
+
+
 **Live Demo:** [SEWS Dashboard](https://earlysepsispredictionmodel-unvvvcefskwrbyca8p67ps.streamlit.app/)
 
 ---

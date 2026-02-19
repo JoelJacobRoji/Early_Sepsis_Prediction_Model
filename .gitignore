@@ -1,0 +1,36 @@
+# ==========================================
+# 🛑 DATA FILES (Too large for GitHub)
+# ==========================================
+# Ignore the raw data folder and the massive processed file
+sepsis_data/
+final_processed_sepsis_data.csv
+
+# Ignore old prototype datasets you might have lying around
+cleaned_sepsis_data_1000.csv
+engineered_sepsis_data_1000.csv
+
+# ==========================================
+# 🛑 OLD / FAILED MODELS
+# ==========================================
+# We only want to keep the balanced_model.pkl. Ignore the bad ones.
+xgboost_sepsis_model.pkl
+xgboost_sepsis_production_model.pkl
+
+# ==========================================
+# 🐍 PYTHON ENVIRONMENT & CACHE
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# ==========================================
+# 💻 IDE & OS HIDDEN FILES
+# ==========================================
+.vscode/
+.DS_Store
+Thumbs.db
